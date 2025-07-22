@@ -1,3 +1,4 @@
+# Ricardo Azevedo GITHUB inicialização
 # Programa simples de boas-vindas em Python
 
 print("Olá turma do Python!")
